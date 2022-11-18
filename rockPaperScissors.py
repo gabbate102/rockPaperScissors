@@ -2,7 +2,7 @@
 # author: Giovanni Abbate
 # version 1.1
 
-# import random and time module
+# import random and time modules
 import random
 import time
 
